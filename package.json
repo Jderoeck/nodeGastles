@@ -1,0 +1,19 @@
+{
+  "name": "nodegastles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jderoeck/nodeGastles.git"
+  },
+  "author": "Jderoeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jderoeck/nodeGastles/issues"
+  },
+  "homepage": "https://github.com/Jderoeck/nodeGastles#readme"
+}
